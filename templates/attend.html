@@ -1,0 +1,19 @@
+<html>
+    <title>
+        Attended people number
+    </title>
+    <body>
+        <h1>
+            Final Result
+        </h1>
+        <p>
+            Number of  attended people in the meeting is {{result}}
+        
+        </p>
+        {% if result<=5 %}
+        <p>{{result}} people will be selected for the next meeting</p>
+        {% else %}
+        <p>number of selected people for conducting next meeting should be choosed</p>
+        {% endif %}
+    </body>
+</html>
