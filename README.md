@@ -1,0 +1,2 @@
+This repository contains a simple Flask tutorial that I'm just starting to learn as a foundational step toward deploying machine learning models on the web. It covers basic Flask concepts, including how to integrate HTML and CSS with Flask, and demonstrates how to retrieve values from a web form to interact with an ML application. This serves as an introduction before moving on to more advanced web deployment techniques.
+It serves as a foundation for understanding  how to integrate ML models for real-time web-based predictions.
